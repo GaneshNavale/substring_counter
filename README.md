@@ -1,8 +1,6 @@
 # SubstringCounter
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/substring_counter`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This is simple ruby gem for counting number of occurances in string.
 
 ## Installation
 
@@ -22,7 +20,18 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Counting occurances of single keyword
+
+2.3.1 :002 > 'string'.count_occurances('in')
+ => 1
+
+Counting occurances of multiple keywords
+
+2.3.1 :003 > 'string with repeated substrings'.count_occurances('ing', 'string', 'sub')
+ => {"ing"=>2, "string"=>2, "sub"=>1}
+
+
+
 
 ## Development
 

@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ganesh Navale"]
   spec.email         = ["navaleganesh2011@gmail.com"]
 
-  spec.summary       = %q{This is an extension of the String class in Ruby to check number of occurances of subdtring in an given string}
+  spec.summary       = %q{This is an extension of the String class in Ruby to check number of occurances of substring in an given string}
   spec.homepage      = "https://github.com/GaneshNavale/substring_counter"
   spec.license       = "MIT"
 
