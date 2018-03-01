@@ -9,9 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ganesh Navale"]
   spec.email         = ["navaleganesh2011@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{This is an extension of the String class in Ruby to check number of occurances of subdtring in an given string}
+  spec.homepage      = "https://github.com/GaneshNavale/substring_counter"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
