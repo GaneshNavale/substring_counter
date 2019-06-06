@@ -1,6 +1,6 @@
 # SubstringCounter
 
-This is simple ruby gem for counting number of occurances in string.
+This is simple ruby gem(https://rubygems.org/gems/substring_counter) for counting number of occurances in string.
 
 ## Installation
 
